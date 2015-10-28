@@ -1,1 +1,6 @@
 # Comeback-der-Oldies-Brettspiele-im-World-Wide-Web
+
+- Das 1. Spiel wird Schach sein
+- 8x8 Spielfeld erstellen (Tabelle)
+- Figuren erstellen (Regeln dafür aus der SQL-Datenbank)
+- evlt. Zeitleiste oder ein Userinterface das Benutzernamen und SPielerfolg anzeigt.
