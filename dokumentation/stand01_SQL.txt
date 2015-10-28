@@ -1,1 +1,10 @@
+Langfristige Datenspeicherung durch MySQL 
+
+Im spiel Schach, womit wir uns als erstes befassen kann man folgende daten, in eine Datenbank einfügen, die
+langfristig gespeichert werden sollen: 
+
+ - Felder auf die die Einzelnen Figuren Hingehen können
+ - Eröffnungen, die angezeigt werden können
+ - Wertigkeiten der Figuren
+ - Die Schachpartie aufzeichnen, um in der Zukunft zu analysieeren
 
