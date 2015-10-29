@@ -8,3 +8,5 @@ langfristig gespeichert werden sollen:
  - Wertigkeiten der Figuren
  - Die Schachpartie aufzeichnen, um in der Zukunft zu analysieeren
 
+ - Beschreibung der Felder
+ - Startaufstellung der Figuren, beim beginn eines Spieles
