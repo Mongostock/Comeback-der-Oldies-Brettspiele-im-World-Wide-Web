@@ -4,7 +4,7 @@ Startaufstellung:
 
 Figur			  Farbe		  Feld		iD		Wertigkeit
 
-Bauer		     Weiss		  A2		  1		  1p
+Bauer		   Weiss		  A2		  1		  1p
 Bauer		    Weiss		  B2		  2		  1p
 Bauer		    Weiss		  C2		  3		  1p
 Bauer		    Weiss		  D2		  4		  1p
