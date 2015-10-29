@@ -2,7 +2,7 @@ MySQL Datenbank - Schach
 
 Startaufstellung: 
 
-Figur			  Farbe		  Feld		iD		Wertigkeit
+Figur (Text)			  Farbe (Text)		  Feld(Text)		iD (int)		Wertigkeit (text)
 
 Bauer		   Weiss		  A2		  1		  1p
 Bauer		    Weiss		  B2		  2		  1p
@@ -48,7 +48,7 @@ König		    Schwarz		G8		  32		Unendlich (nicht definiert)
 
 Felderbezeichnung:
 
-iD		Feld		Farbe
+iD (int)		Feld (Text)		Farbe (text)
 
 1		  A1		Schwarz
 2		  A2		Weiss
