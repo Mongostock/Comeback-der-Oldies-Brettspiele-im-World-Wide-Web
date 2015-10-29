@@ -1,0 +1,124 @@
+MySQL Datenbank - Schach
+
+Startaufstellung: 
+
+Figur			  Farbe		  Feld		iD		Wertigkeit
+
+Bauer		    Weiss		  A2		  1		  1p
+Bauer		    Weiss		  B2		  2		  1p
+Bauer		    Weiss		  C2		  3		  1p
+Bauer		    Weiss		  D2		  4		  1p
+Bauer		    Weiss		  E2		  5		  1p
+Bauer		    Weiss		  F2		  5		  1p
+Bauer		    Weiss		  G2		  7		  1p
+Bauer		    Weiss		  H2		  8		  1p
+
+Turm		    Weiss		  A1		  9		  5p
+Turm		    Weiss		  H1		  10		5p
+Springer    Weiss		  B1		  11		3p
+Springer	  Weiss		  G1		  12		3p
+Läufer		  Weiss		  C1		  13		3p
+Läufer		  Weiss		  F1		  14		3p
+Dame		    Weiss		  D1		  15		9p
+König		    Weiss		  E1		  16		Unendlich (nicht definiert)
+
+Bauer		    Schwarz		A7		  17		1p
+Bauer		    Schwarz		B7		  18		1p
+Bauer		    Schwarz		C7		  19		1p
+Bauer		    Schwarz		D7		  20		1p
+Bauer		    Schwarz		E7		  21		1p
+Bauer		    Schwarz		F7		  22		1p
+Bauer		    Schwarz		G7		  23		1p
+Bauer		    Schwarz		H7		  24		1p
+
+Turm			  Schwarz		A8		  25		5p
+Turm			  Schwarz		H8		  26		5p
+Springer		Schwarz		B8		  27		3p
+Springer		Schwarz		G8		  28		3p
+Läufer		  Schwarz		C8		  29		3p
+Läufer		  Schwarz		F8		  30		3p
+Dame		    Schwarz		D8		  31		9p
+König		    Schwarz		G8		  32		Unendlich (nicht definiert)
+
+
+
+
+
+
+
+Felderbezeichnung:
+
+iD		Feld		Farbe
+
+1		  A1		Schwarz
+2		  A2		Weiss
+3		  A3		Schwarz
+4		  A4		Weiss
+5		  A5		Schwarz
+6		  A6		Weiss
+7		  A7		Schwarz
+8		  A8		Weiss
+
+9		  B1		Weiss
+10		B2		Schwarz
+11		B3		Weiss
+12		B4		Schwarz
+13		B5		Weiss
+14		B6		Schwarz
+15		B7		Weiss
+16		B8		Schwarz
+
+17		C1		Schwarz
+18		C2		Weiss
+19		C3		Schwarz
+20		C4		Weiss
+21		C5		Schwarz
+22		C6		Weiss
+23		C7		Schwarz
+24		C8		Weiss
+
+25		D1		Weiss		
+26		D2		Schwarz
+27		D3		Weiss
+28		D4		Schwarz
+29		D5		Weiss
+30		D6		Schwarz
+31		D7		Weiss
+32		D8		Schwarz
+
+33		E1		Schwarz
+34		E2		Weiss
+35		E3		Schwarz
+36		E4		Weiss
+37		E5		Schwarz
+38		E6		Weiss
+39		E7		Schwarz
+40		E8		Weiss
+
+41		F1		Weiss
+42		F2		Schwarz
+43		F3		Weiss
+44		F4		Schwarz
+45		F5		Weiss
+46		F6		Schwarz
+47		F7		Weiss
+48		F8		Schwarz
+
+49		G1		Schwarz
+50		G2		Weiss
+51		G3		Schwarz
+52		G4		Weiss
+53		G5		Schwarz
+54		G6		Weiss
+55		G7		Schwarz
+56		G8		Weiss
+
+57		H1		Weiss
+58		H2		Schwarz
+59		H3		Weiss
+60		H4		Schwarz
+61		H5		Weiss
+62		H6		Schwarz
+63		H7		Weiss
+64		H8		Schwarz
+
