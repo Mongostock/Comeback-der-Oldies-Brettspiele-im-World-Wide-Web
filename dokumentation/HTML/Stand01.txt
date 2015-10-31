@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Comeback-der-Oldies-Brettspiele-im-World-Wide-Web-Schach</title>
+</head>
+<body>
+<table width=500px height=500px cellspacing=0>
+</tr>
+ 
+</table>
+</body>
+</html>
