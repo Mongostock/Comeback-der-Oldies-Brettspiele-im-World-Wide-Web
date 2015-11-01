@@ -5,6 +5,92 @@
 </head>
 <body>
 <table width=500px height=500px cellspacing=0>
+<tr bgcolor=#CCFFCC>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
+<td bgcolor=white></td>
+<td bgcolor=black></td>
 </tr>
  
 </table>
