@@ -10,3 +10,25 @@ langfristig gespeichert werden sollen:
 
  - Beschreibung der Felder
  - Startaufstellung der Figuren, beim beginn eines Spieles
+
+
+
+In weiteren Spielen, wie zb in einer art Monopoly, können folrgende Daten in einer Datenbank gespeichert werden: 
+
+ - Straßenamen
+ - Straßenfarbe (in hinsicht auf Monopol)
+ 
+ - Preise von: - Straße
+               - Häuser
+               - Hotel
+               - Gebühr bei Besuch von : - Nur Straße
+                                         - Straße mit 1 Haus
+                                         - Straße mit 2 Häuser
+                                         - Straße mit 3 Häuser
+                                         - Straße mit 4 Häuser
+                                         - Straße mit Hotel
+                                         
+               - Hypothek
+               - Verkaufswert
+               - Ereignisfelder bzw, Die texte die auf diesen karten stehen
+               - Gemeinschaftfelder bzw, Die Texte die auf diesen karten stehen
