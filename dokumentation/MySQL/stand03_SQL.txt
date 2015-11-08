@@ -1,1 +1,26 @@
+Zur Speicherung in eine Datenbank für ein Monopoly Ahnliches Spiel: 
 
+Beispiel:
+
+
+iD      Name der Straße     Farbe der Straße      Preis der Straße      Hopothekenwert      gebühr bei besuch
+
+1       Finkenau            Blau                  2800                  140                 316
+
+
+
+
+
+
+
+
+Preis für 1 Haus          Preis für 1 Hotel         Gebuühr bei 1 Haus ( 2 Häuser, 3 Häuser 4 Häuser)     
+1000                      5000                      800, 1200, 1600, 2000
+
+
+
+
+
+
+Gebühr bei Hotel
+3000
