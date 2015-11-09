@@ -7,17 +7,44 @@
 <body>
 <tbody>
   <tr>
-    <td class="leereEcke"></td>
-    <th class="ersteReihe">a</th>
-    <th class="ersteReihe">b</th>
-    <th class="ersteReihe">c</th>
-    <th class="ersteReihe">d</th>
-    <th class="ersteReihe">e</th>
-    <th class="ersteReihe">f</th>
-    <th class="ersteReihe">g</th>
-    <th class="ersteReihe">h</th>
-    <td class="leereEcke"></td>
+    <td class="vertikaleReihe"></td>
+    <th class="horiontaleReihe">a</th>
+    <th class="horiontaleReihe">b</th>
+    <th class="horiontaleReihe">c</th>
+    <th class="horiontaleReihe">d</th>
+    <th class="horiontaleReihe">e</th>
+    <th class="horiontaleReihe">f</th>
+    <th class="horiontaleReihe">g</th>
+    <th class="horiontaleReihe">h</th>
+    <td class="vertikaleReihe"></td>
   </tr>
-  
+  <tr>
+    <th class="vertikaleReihe">8</th>
+    <td class="weisseFelder" id="feld91">
+      <span>♜</span>
+    </td>
+    <td class="weisseFelder" id="feld92">
+      <span>♞</span>
+    </td>    
+    <td class="schwarzeFelder" id="feld93">
+      <span>♝</span>
+    </td>
+    <td class="weisseFelder" id="feld94">
+      <span>♛</span>
+    </td>
+    <td class="schwarzeFelder" id="feld95">
+      <span>♚</span>
+    </td>
+    <td class="weisseFelder" id="feld96">
+      <span>♝</span>
+    </td>
+    <td class="schwarzeFelder" id="feld97">
+      <span>♞</span>
+    </td>
+    <td class="weisseFelder" id="feld98">
+      <span>♜</span>
+    </td>
+    
+  </tr>
 </tbody>
 </body>
