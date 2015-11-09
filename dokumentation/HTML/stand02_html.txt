@@ -5,5 +5,19 @@
 <title> Comeback der Oldies: Schach</title>
 </head>
 <body>
-
+<tbody>
+  <tr>
+    <td class="leereEcke"></td>
+    <th class="ersteReihe">a</th>
+    <th class="ersteReihe">b</th>
+    <th class="ersteReihe">c</th>
+    <th class="ersteReihe">d</th>
+    <th class="ersteReihe">e</th>
+    <th class="ersteReihe">f</th>
+    <th class="ersteReihe">g</th>
+    <th class="ersteReihe">h</th>
+    <td class="leereEcke"></td>
+  </tr>
+  
+</tbody>
 </body>
