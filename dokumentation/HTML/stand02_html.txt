@@ -5,46 +5,111 @@
 <title> Comeback der Oldies: Schach</title>
 </head>
 <body>
-<tbody>
-  <tr>
-    <td class="vertikaleReihe"></td>
-    <th class="horiontaleReihe">a</th>
-    <th class="horiontaleReihe">b</th>
-    <th class="horiontaleReihe">c</th>
-    <th class="horiontaleReihe">d</th>
-    <th class="horiontaleReihe">e</th>
-    <th class="horiontaleReihe">f</th>
-    <th class="horiontaleReihe">g</th>
-    <th class="horiontaleReihe">h</th>
-    <td class="vertikaleReihe"></td>
-  </tr>
-  <tr>
-    <th class="vertikaleReihe">8</th>
-    <td class="weisseFelder" id="feld91">
-      <span>♜</span>
-    </td>
-    <td class="weisseFelder" id="feld92">
-      <span>♞</span>
-    </td>    
-    <td class="schwarzeFelder" id="feld93">
-      <span>♝</span>
-    </td>
-    <td class="weisseFelder" id="feld94">
-      <span>♛</span>
-    </td>
-    <td class="schwarzeFelder" id="feld95">
-      <span>♚</span>
-    </td>
-    <td class="weisseFelder" id="feld96">
-      <span>♝</span>
-    </td>
-    <td class="schwarzeFelder" id="feld97">
-      <span>♞</span>
-    </td>
-    <td class="weisseFelder" id="feld98">
-      <span>♜</span>
-    </td>
-    
-  </tr>
-</tbody>
+<table width=500px height=500px cellspacing=0>
+<tr bgcolor=#CCFFCC>
+<td bgcolor=c1c1c1></td>
+    <span>♜</span>
+<td bgcolor=white></td>
+    <span>♞</span>
+<td bgcolor=c1c1c1></td>
+    <span>♝</span>
+<td bgcolor=white></td>
+    <span>♛</span>
+<td bgcolor=c1c1c1></td>
+    <span>♚</span>
+<td bgcolor=white></td>
+    <span>♝</span>
+<td bgcolor=c1c1c1></td>
+    <span>♞</span>
+<td bgcolor=white></td>
+    <span>♜</span>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=white></td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=white></td>
+    <span>♜</span>
+<td bgcolor=c1c1c1></td>
+    <span>♞</span>
+<td bgcolor=white></td>
+    <span>♝</span>
+<td bgcolor=c1c1c1></td>
+    <span>♛</span>
+<td bgcolor=white></td>
+    <span>♚</span>
+<td bgcolor=c1c1c1></td>
+    <span>♝</span>
+<td bgcolor=white></td>
+    <span>♞</span>
+<td bgcolor=c1c1c1></td>
+    <span>♜</span>
+</tr>
+ 
+</table>
 </body>
+</html>
