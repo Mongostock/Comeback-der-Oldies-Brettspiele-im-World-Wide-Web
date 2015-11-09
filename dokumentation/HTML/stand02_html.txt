@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=UFT-8">
+<title> Comeback der Oldies: Schach</title>
+</head>
+<body>
+
+</body>
