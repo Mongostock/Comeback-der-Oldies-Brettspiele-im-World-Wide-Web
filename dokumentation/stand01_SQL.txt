@@ -33,3 +33,13 @@ In weiteren Spielen, wie zb in einer art Monopoly, können folrgende Daten in ei
                - Verkaufswert
                - Ereignisfelder bzw, Die texte die auf diesen karten stehen
                - Gemeinschaftfelder bzw, Die Texte die auf diesen karten stehen
+
+
+
+Bei dem Spiel ''Dame'' kann man einen teil der datenbank vom Schach spiel übernehmen. 
+
+so wie zum beipsiel :     - Die bezeichnung der Felder
+
+Außerdem muss hinzugefügt werden:        - Starposition der Speilsteine
+                                         - Felder, bei denen man sich eine Dame wünschen kann
+                                         
