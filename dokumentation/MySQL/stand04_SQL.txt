@@ -1,0 +1,50 @@
+Dame
+
+
+
+iD                Figur                Farbe des Feldes           Startfeld           
+
+1                 Weißer Stein          Schwarz                   a1                    
+2                 Weißer Stein                                    c1
+3                 Weißer Stein                                    e1
+4                 Weißer Stein                                    g1
+5                 Weißer Stein                                    b2
+6                 Weißer Stein                                    d2
+7                 Weißer Stein                                    f2
+8                 Weißer Stein                                    h2
+9                 Weißer Stein                                    a3                                
+10                Weißer Stein                                    c3
+11                Weißer Stein                                    e3
+12                Weißer Stein                                    g3
+
+13                Schwarzer Stein                                 b8
+14                Schwarzer Stein                                 d8
+15                Schwarzer Stein                                 f8
+16                Schwarzer Stein                                 h8
+17                Schwarzer Stein                                 a7
+18                Schwarzer Stein                                 c7
+19                Schwarzer Stein                                 e7
+20                Schwarzer Stein                                 g7
+21                Schwarzer Stein                                 b6
+22                Schwarzer Stein                                 d6
+23                Schwarzer Stein                                 f6
+24                Schwarzer Stein         Schwarz                 h6
+
+
+
+
+
+
+
+
+
+iD              Feld um Dame zu wünschen
+
+1               a1
+2               c1
+3               e1
+4               g1
+5               b8
+6               d8
+7               f8
+8               h8
