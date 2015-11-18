@@ -9,21 +9,13 @@
 <tr bgcolor=#CCFFCC>
 <td bgcolor=#ffebcd>A</td>
 <td bgcolor=c1c1c1>♜</td>
-    <span>♜</span>
 <td bgcolor=white>♞</td>
-    <span>♞</span>
 <td bgcolor=c1c1c1>♝</td>
-    <span>♝</span>
 <td bgcolor=white>♛</td>
-    <span>♛</span>
 <td bgcolor=c1c1c1>♚</td>
-    <span>♚</span>
 <td bgcolor=white>♝</td>
-    <span>♝</span>
 <td bgcolor=c1c1c1>♞</td>
-    <span>♞</span>
 <td bgcolor=white>♜</td>
-    <span>♜</span>
 <td bgcolor=#ffebcd>A</td>
 </tr>
  
@@ -108,21 +100,13 @@
 <tr bgcolor=#CCFFCC>
 <td bgcolor=#ffebcd>H</td>
 <td bgcolor=white>♜</td>
-    <span>♜</span>
 <td bgcolor=c1c1c1>♞</td>
-    <span>♞</span>
 <td bgcolor=white>♝</td>
-    <span>♝</span>
 <td bgcolor=c1c1c1>♛</td>
-    <span>♛</span>
 <td bgcolor=white>♚</td>
-    <span>♚</span>
 <td bgcolor=c1c1c1>♝</td>
-    <span>♝</span>
 <td bgcolor=white>♞</td>
-    <span>♞</span>
 <td bgcolor=c1c1c1>♜</td>
-    <span>♜</span>
 <td bgcolor=#ffebcd>G</td>
 </tr>
  
