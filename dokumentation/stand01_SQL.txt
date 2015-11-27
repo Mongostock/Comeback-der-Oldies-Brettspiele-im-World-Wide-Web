@@ -1,4 +1,4 @@
-Langfristige Datenspeicherung durch MySQL 
+﻿Langfristige Datenspeicherung durch MySQL 
 
 Im spiel Schach, womit wir uns als erstes befassen kann man folgende daten, in eine Datenbank einfügen, die
 langfristig gespeichert werden sollen: 
@@ -43,3 +43,14 @@ so wie zum beipsiel :     - Die bezeichnung der Felder
 Außerdem muss hinzugefügt werden:        - Starposition der Speilsteine
                                          - Felder, bei denen man sich eine Dame wünschen kann
                                          
+
+=== Feedback Alpers, nov 27 ===
+
+Liebe/r Studierende/r,
+
+bitte mergen Sie regelmäßig den aktuellen Stand des Projekts im master. Nur das, was im master ist geht in die Wertung ein.
+
+Außerdem bin ich verwundert, dass bislang nur eine Datei zum Stand von jedem von ihnen vorhanden ist. Die Dokumentation soll aufzeigen, was Sie in den einzelnen Wochen getan haben. Nach dem, was Sie hier hochgeladen haben, haben Sie seit dem ersten Treffen noch nicht viel erstellt.
+
+Viele Grüße,
+Markus Alpers

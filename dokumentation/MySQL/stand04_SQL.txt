@@ -1,4 +1,4 @@
-Dame
+﻿Dame
 
 
 
@@ -48,3 +48,14 @@ iD              Feld um Dame zu wünschen
 6               d8
 7               f8
 8               h8
+
+=== Feedback Alpers, nov 27 ===
+
+Liebe/r Studierende/r,
+
+wie gesagt sollen diese Dateien im Verzeichnis dokumentationen liegen, nicht in einem Unterverzeichnis davon.
+
+Außerdem ist das, was Sie hier angeben nichts, was in einer Datenbank gespeichert werden würde. Zumindest geht aus dieser Aufstellung nicht hervor, welchen Sinn diese Zuordnungen haben.
+
+Viele Grüße,
+Markus Alpers

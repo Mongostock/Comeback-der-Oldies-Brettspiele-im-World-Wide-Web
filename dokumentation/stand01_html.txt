@@ -1,6 +1,17 @@
-# Comeback-der-Oldies-Brettspiele-im-World-Wide-Web
+﻿# Comeback-der-Oldies-Brettspiele-im-World-Wide-Web
 
 - Das 1. Spiel wird Schach sein
 - 8x8 Spielfeld erstellen (Tabelle)
 - Figuren erstellen (Regeln dafür aus der SQL-Datenbank)
 - evlt. Zeitleiste oder ein Userinterface das Benutzernamen und SPielerfolg anzeigt.
+
+=== Feedback Alpers, nov 27 ===
+
+Liebe Studierende,
+
+bitte mergen Sie regelmäßig den aktuellen Stand des Projekts im master. Nur das, was im master ist geht in die Wertung ein.
+
+Außerdem bin ich verwundert, dass bislang nur eine Datei zum Stand von jedem von ihnen vorhanden ist. Die Dokumentation soll aufzeigen, was Sie in den einzelnen Wochen getan haben. Nach dem, was Sie hier hochgeladen haben, haben Sie seit dem ersten Treffen noch kaum etwas erstellt.
+
+Viele Grüße,
+Markus Alpers

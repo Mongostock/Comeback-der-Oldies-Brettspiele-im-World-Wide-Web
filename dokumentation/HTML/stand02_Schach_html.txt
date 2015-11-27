@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
 <meta content="text/html; charset=UFT-8">
@@ -113,3 +113,14 @@
 </table>
 </body>
 </html>
+
+=== Feedback Alpers, nov 27 ===
+
+=== Feedback Alpers, nov 27 ===
+
+Liebe/r Studierende/r,
+
+wo ist die Anbindung des PHP-Teils in Ihr Projekt? Was ist der STAND Ihres Projekts?
+
+Viele Grüße,
+Markus Alpers

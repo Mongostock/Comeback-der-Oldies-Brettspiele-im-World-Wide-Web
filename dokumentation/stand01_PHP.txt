@@ -1,1 +1,10 @@
+=== Feedback Alpers, nov 27 ===
 
+Liebe/r Studierende/r,
+
+bitte mergen Sie regelmäßig den aktuellen Stand des Projekts im master. Nur das, was im master ist geht in die Wertung ein.
+
+Außerdem bin ich verwundert, dass bislang nur eine Datei zum Stand von jedem von ihnen vorhanden ist. Die Dokumentation soll aufzeigen, was Sie in den einzelnen Wochen getan haben. Nach dem, was Sie hier hochgeladen haben, haben Sie seit dem ersten Treffen noch nichts erstellt.
+
+Viele Grüße,
+Markus Alpers
