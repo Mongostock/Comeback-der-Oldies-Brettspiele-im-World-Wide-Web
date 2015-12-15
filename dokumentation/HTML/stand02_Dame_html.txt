@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=UFT-8">
+<title> Comeback der Oldies: Dame</title>
+</head>
+<body>
+<table width=500px height=500px cellspacing=0>
+<tr bgcolor=#CCFFCC>
+<td bgcolor=#ffebcd>A</td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=#ffebcd>A</td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=#ffebcd>B</td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=#ffebcd>B</td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=#ffebcd>C</td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=#ffebcd>C</td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=#ffebcd>D</td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=#ffebcd>D</td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=#ffebcd>E</td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=#ffebcd>E</td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=#ffebcd>F</td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=#ffebcd>F</td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=#ffebcd>G</td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=#ffebcd>G</td>
+</tr>
+ 
+<tr bgcolor=#CCFFCC>
+<td bgcolor=#ffebcd>H</td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=red></td>
+<td bgcolor=c1c1c1></td>
+<td bgcolor=#ffebcd>G</td>
+</tr>
+ 
+</table>
+</body>
+</html>
