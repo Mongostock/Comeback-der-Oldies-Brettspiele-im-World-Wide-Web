@@ -113,3 +113,13 @@
 </table>
 </body>
 </html>
+
+<!--
+=== Feedback Alpers, Jan 20 ===
+
+Offengestanden weiß ich nicht, warum Sie dieses Beispiel für eine Tabelle in HTML hochgeladen haben.
+Eine echte Änderung gegenüber dem Stand vom 27. November ist nicht erkennbar.
+Eine Bearbeitung im Sinne des Leistungsnachweises als Projektanteil ebenfalls nicht.
+
+=== Feedback Alpers, Ende ===
+-->
